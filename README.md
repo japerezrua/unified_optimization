@@ -7,6 +7,7 @@ See below a very brief guide of the content of this repo:
 
 See diagram below:
 
+![High-level workflow of the scripts contained in this repo](/workflow.png)
 
 ***Important note***
 Apart from standard python libraries, CPLEX python API is required to be installed to use these scripts. Find a guide on how to download the full academic version at https://community.ibm.com/community/user/ai-datascience/blogs/xavier-nodet1/2020/07/09/cplex-free-for-students.
