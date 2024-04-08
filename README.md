@@ -5,6 +5,8 @@ See below a very brief guide of the content of this repo:
 - The folder <em>post_proc_unified</em> contains the set of scripts to run the output .dill file from <em>unified</em> and provides the 5 top-performing solutions after forcing the cable crossing constraints.
 - The folder <em>sequential</em> contains the set of scripts to run the sequential optimization approach, where first the wind farm layuout is solved, followed up by the cable routing.
 
+All folders have a shell file file (.sh) with last line of the form python3 xyz.py, where file "xyz.py" is the main script calling the others in the same folder.
+
 See diagram below:
 
 ![High-level workflow of the scripts contained in this repo](/workflow.png)
